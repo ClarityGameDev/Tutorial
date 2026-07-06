@@ -3,8 +3,10 @@
 [node name="Level" type="Node2D" unique_id=1672168057]
 
 [node name="Label" type="Label" parent="." unique_id=493512375]
-offset_right = 1149.0
-offset_bottom = 643.0
+offset_left = -85.0
+offset_top = -119.0
+offset_right = 1064.0
+offset_bottom = 524.0
 theme_override_font_sizes/font_size = 78
 text = "TEST GITHUB !!"
 horizontal_alignment = 1
